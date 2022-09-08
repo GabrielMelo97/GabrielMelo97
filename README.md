@@ -4,10 +4,6 @@
     <img align="center" alt="Linkedin" height="40" src="https://img.icons8.com/doodle/344/linkedin--v2.png" />
   </a>
   
-  <a href="https://api.whatsapp.com/send?phone=5511971629022" >
-    <img align="center" alt="WhatsApp" height="40" src="https://img.icons8.com/doodle/344/whatsapp.png" />
-  </a>
-  
   <a href="mailto:gabrielm.leite@hotmail.com" >
     <img align="center" alt="WhatsApp" height="40" src="https://img.icons8.com/doodle/344/ms-outlook.png" />
   </a>
